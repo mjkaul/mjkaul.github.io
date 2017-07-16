@@ -17,7 +17,7 @@ title: Matt's Notebook
 email: mjkaul@gmail.com
 description: Notes on books and culture.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mjkaul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjkaul
 github_username: mjkaul
 
