@@ -23,10 +23,8 @@ github_username: mjkaul
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: minima
 plugins:
->>>>>>> origin/master
   - jekyll-feed
 
 # Exclude from processing.
