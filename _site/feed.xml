@@ -1,13 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-15T14:22:24-05:00</updated><id>http://localhost:4000/</id><title type="html">Matt’s Notebook</title><subtitle>Notes on books and culture.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/07/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-07-15T14:15:54-05:00</published><updated>2017-07-15T14:15:54-05:00</updated><id>http://localhost:4000/jekyll/update/2017/07/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/07/15/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-16T14:00:40-05:00</updated><id>http://localhost:4000/</id><title type="html">Matt’s Notebook</title><subtitle>Notes on books and culture.</subtitle><entry><title type="html">Derek Walcott, RIP</title><link href="http://localhost:4000/walcott/style/poetry/2017/03/31/on-derek-walcott.html" rel="alternate" type="text/html" title="Derek Walcott, RIP" /><published>2017-03-31T07:30:00-05:00</published><updated>2017-03-31T07:30:00-05:00</updated><id>http://localhost:4000/walcott/style/poetry/2017/03/31/on-derek-walcott</id><content type="html" xml:base="http://localhost:4000/walcott/style/poetry/2017/03/31/on-derek-walcott.html">&lt;p&gt;Derek Walcott died on March 17. I have loved his poetry since I first read a selection in the Norton Anthology as an undergraduate. I was so taken with “A Far Cry from Africa” that I memorized it; it’s an earlier poem of his, but remains characteristic of his style, a style that &lt;em&gt;lives&lt;/em&gt;. Here’s the poem:&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A wind is ruffling the tawny pelt &lt;br /&gt;
+Of Africa. Kikuyu, quick as flies, &lt;br /&gt;
+Batten upon the bloodstreams of the veldt. &lt;br /&gt;
+Corpses are scattered through a paradise. &lt;br /&gt;
+Only the worm, colonel of carrion, cries: &lt;br /&gt;
+“Waste no compassion on these separate dead!” &lt;br /&gt;
+Statistics justify and scholars seize &lt;br /&gt;
+The salients of colonial policy. &lt;br /&gt;
+What is that to the white child hacked in bed? &lt;br /&gt;
+To savages, expendable as Jews? &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Threshed out by beaters, the long rushes break &lt;br /&gt;
+In a white dust of ibises whose cries &lt;br /&gt;
+Have wheeled since civilization’s dawn &lt;br /&gt;
+From the parched river or beast-teeming plain. &lt;br /&gt;
+The violence of beast on beast is read &lt;br /&gt;
+As natural law, but upright man &lt;br /&gt;
+Seeks his divinity by inflicting pain. &lt;br /&gt;
+Delirious as these worried beasts, his wars &lt;br /&gt;
+Dance to the tightened carcass of a drum, &lt;br /&gt;
+While he calls courage still that native dread &lt;br /&gt;
+Of the white peace contracted by the dead. &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;blockquote&gt;
+  &lt;p&gt;Again brutish necessity wipes its hands &lt;br /&gt;
+Upon the napkin of a dirty cause, again &lt;br /&gt;
+A waste of our compassion, as with Spain, &lt;br /&gt;
+The gorilla wrestles with the superman. &lt;br /&gt;
+I who am poisoned with the blood of both, &lt;br /&gt;
+Where shall I turn, divided to the vein? &lt;br /&gt;
+I who have cursed &lt;br /&gt;
+The drunken officer of British rule, how choose &lt;br /&gt;
+Between this Africa and the English tongue I love? &lt;br /&gt;
+Betray them both, or give back what they give? &lt;br /&gt;
+How can I face such slaughter and be cool? &lt;br /&gt;
+How can I turn from Africa and live? &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;During his &lt;a href=&quot;https://www.theparisreview.org/interviews/2719/derek-walcott-the-art-of-poetry-no-37-derek-walcott&quot;&gt;&lt;em&gt;Paris Review&lt;/em&gt; interview&lt;/a&gt;, Walcott was asked how his relationship to English poetry had changed over time. The interviewer (Edward Hirsch, as it happens), noted “As your work has progressed you seem to have increasingly affiliated yourself with a line of New World poets from Whitman through St. John Perse to Aimé Césaire and Pablo Neruda.” &lt;/p&gt;
+
+&lt;p&gt;Walcott responded:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Carlos Fuentes talked in a Paris Review interview [&lt;em&gt;it’s an equally remarkable interview, &lt;a href=&quot;https://www.theparisreview.org/interviews/3195/carlos-fuentes-the-art-of-fiction-no-68-carlos-fuentes&quot;&gt;available here&lt;/a&gt; ~ed.&lt;/em&gt;] about the essential Central American experience, which includes the whole basin of the Caribbean—that it is already a place of tremendous fertility. The whole New World experience here is shared by Márquez as it is by Borges, as it is still by American writers. In fact, too many American poets don’t take on the scale of America. Not because we should write epics but because it seems to be our place to try to understand. In places that are yet undefined the energy comes with the knowledge that this has not yet been described, this has not yet been painted. This means that I’m standing here like a pioneer. I’m the first person to look at this mountain and try to write about it. I’m the first person to see this lagoon, this piece of land. Here I am with this enormous privilege of just being someone who can take up a brush. My generation of West Indian writers, following after C. L. R. James, all felt the thrill of the absolute sense of discovery. That energy is concomitant with being where we are; it’s part of the whole idea of America. And by America, I mean from Alaska right down to Curaçao.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This balance of promise and history, exploration and memory, the vast expanse of the Americas and the privilege and responsibility of the individual writer, is taken up by younger writers of the Americas, writers like Bolaño, Alejandro Zambra, Marlon James. Walcott’s comment reminds me in particular of Colson Whitehead’s recent and remarkable &lt;em&gt;Underground Railroad&lt;/em&gt;, at the end of which Cora turns away from both North and South, toward the American West. She doesn’t simplistically jettison the weight of her tragic life, but she carries it differently when, like Walcott, she stands as a pioneer.&lt;/p&gt;
+
+&lt;p&gt;There’s so much more to be said about Walcott, particularly his moral and religions vision (forged as he was raised a contrarian Methodist in deeply Catholic Santa Lucia), his rich and generative relationship to painting (he grew up both painting and writing; the last book published before his death is a &lt;a href=&quot;http://us.macmillan.com/morningparamin/derekwalcott/9780374213428/&quot;&gt;collaboration and dialogue with painter Peter Doig&lt;/a&gt;). I hope to write more about Walcott in months to come. For now, though, here are a few more good places to read more about his life and work:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The aforementioned &lt;a href=&quot;https://www.theparisreview.org/interviews/2719/derek-walcott-the-art-of-poetry-no-37-derek-walcott&quot;&gt;&lt;em&gt;Paris Review&lt;/em&gt; interview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fsgworkinprogress.com/2017/03/remembering-derek-walcott/&quot;&gt;Jonathan Galassi remembers Walcott&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://lareviewofbooks.org/article/eye-mind/&quot;&gt;&lt;em&gt;LARB&lt;/em&gt; review of &lt;em&gt;The Poetry of Derek Walcott&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.lareviewofbooks.org/essays/encountering-derek-walcott/&quot;&gt;Remembering Derek Walcott&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.newyorker.com/books/page-turner/a-trinidadian-friendship-derek-walcott-and-peter-doig&quot;&gt;Joshua Jelly-Schapiro on Walcott &amp;amp; Doig&lt;/a&gt; (In my opinion, Jelly-Schapiro’s writing on the Caribbean for the &lt;em&gt;New Yorker&lt;/em&gt; is among the best reasons to read that publication.)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Derek Walcott died on March 17. I have loved his poetry since I first read a selection in the Norton Anthology as an undergraduate. I was so taken with “A Far Cry from Africa” that I memorized it; it’s an earlier poem of his, but remains characteristic of his style, a style that lives. Here’s the poem:</summary></entry><entry><title type="html">Iain Sinclair’s Style</title><link href="http://localhost:4000/sinclair/style/2017/03/24/on-iain-sinclair.html" rel="alternate" type="text/html" title="Iain Sinclair’s Style" /><published>2017-03-24T07:30:00-05:00</published><updated>2017-03-24T07:30:00-05:00</updated><id>http://localhost:4000/sinclair/style/2017/03/24/on-iain-sinclair</id><content type="html" xml:base="http://localhost:4000/sinclair/style/2017/03/24/on-iain-sinclair.html">&lt;p&gt;Reading his recent &lt;em&gt;London Review&lt;/em&gt; essay, &lt;a href=&quot;https://www.lrb.co.uk/v39/n07/iain-sinclair/the-last-london&quot;&gt;“The Last London”&lt;/a&gt;, I felt the awe I always feel when reading Sinclair. The adjectives that come first to mind when trying to describe his style—&lt;em&gt;sui generis&lt;/em&gt;, idiosyncratic, masterful—are a demonstration that I haven’t sufficiently applied lessons from this style to my own clichéd writing. Sinclair’s is a prose style that combines the dense, historical lyricism of Geoffrey Hill with the speed and dexterity of Frederick Seidel. I have to read him slowly to absorb the density before reading him at something close to the pace his style encourages, like an amateur jazz musician learning a bebop tune: I play it at quarter-tempo, then half; perhaps one day at full tempo.&lt;/p&gt;</content><author><name></name></author><summary type="html">Reading his recent London Review essay, “The Last London”, I felt the awe I always feel when reading Sinclair. The adjectives that come first to mind when trying to describe his style—sui generis, idiosyncratic, masterful—are a demonstration that I haven’t sufficiently applied lessons from this style to my own clichéd writing. Sinclair’s is a prose style that combines the dense, historical lyricism of Geoffrey Hill with the speed and dexterity of Frederick Seidel. I have to read him slowly to absorb the density before reading him at something close to the pace his style encourages, like an amateur jazz musician learning a bebop tune: I play it at quarter-tempo, then half; perhaps one day at full tempo.</summary></entry><entry><title type="html">Robert Silvers, RIP</title><link href="http://localhost:4000/editors/nyrb/2017/03/23/robert-silvers.html" rel="alternate" type="text/html" title="Robert Silvers, RIP" /><published>2017-03-23T07:37:33-05:00</published><updated>2017-03-23T07:37:33-05:00</updated><id>http://localhost:4000/editors/nyrb/2017/03/23/robert-silvers</id><content type="html" xml:base="http://localhost:4000/editors/nyrb/2017/03/23/robert-silvers.html">&lt;p&gt;The great editor Robert Silvers died this week; may he rest in peace. He has been a model for me of diligence and editorial vision since I started reading &lt;em&gt;NYRB&lt;/em&gt; ten years or so ago.&lt;/p&gt;
+
+&lt;p&gt;Many remarkable tributes to his life and work (categories that in his case were particularly inseparable) have been written and published in the days since then. Here are a few:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nybooks.com/daily/2017/03/21/remembering-bob-silvers/&quot;&gt;&lt;em&gt;NYRB&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.newyorker.com/books/page-turner/remembering-robert-silvers&quot;&gt;&lt;em&gt;New Yorker&lt;/em&gt;&lt;/a&gt; writers remember Silvers&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://www.theparisreview.org/blog/2017/03/20/robert-silvers-1929-2017/&quot;&gt;short remembrance&lt;/a&gt; by Lorin Stein&lt;/li&gt;
+  &lt;li&gt;An &lt;a href=&quot;http://www.slate.com/articles/arts/books/2017/03/an_interview_with_ian_buruma_about_the_genius_of_bob_silvers_and_the_nyrb.html&quot;&gt;interview with Ian Buruma&lt;/a&gt; about Silvers&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/view/articles/2017-03-21/what-a-democracy-needs-in-an-editor&quot;&gt;Cass Sunstein, “What Democracy Needs in an Editor”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2017/03/20/books/robert-silvers-dead-founding-editor-new-york-review-of-books-nyrb.html&quot;&gt;William Grimes’s &lt;em&gt;NYT&lt;/em&gt; obituary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/books/2017/mar/21/robert-silvers-obituary&quot;&gt;A thorough obituary by Geoffrey Wheatcroft in the &lt;em&gt;Guardian&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The great editor Robert Silvers died this week; may he rest in peace. He has been a model for me of diligence and editorial vision since I started reading NYRB ten years or so ago.</summary></entry></feed>
