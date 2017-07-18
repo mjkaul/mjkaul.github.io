@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On <em>Underground Railroad</em>"
+title:  "On *Underground Railroad*"
 date:   2017-07-17 21:30:00 -0600
 categories:
 ---
