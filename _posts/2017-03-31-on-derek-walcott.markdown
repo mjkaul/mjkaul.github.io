@@ -56,6 +56,7 @@ This balance of promise and history, exploration and memory, the vast expanse of
 
 There’s so much more to be said about Walcott, particularly his moral and religions vision (forged as he was raised a contrarian Methodist in deeply Catholic Santa Lucia), his rich and generative relationship to painting (he grew up both painting and writing; the last book published before his death is a [collaboration and dialogue with painter Peter Doig](http://us.macmillan.com/morningparamin/derekwalcott/9780374213428/)). I hope to write more about Walcott in months to come. For now, though, here are a few more good places to read more about his life and work:
 
+- Garrick Davis’s [tribute in *First Things*](https://www.firstthings.com/article/2017/08/caribbean-rhapsode)
 - The aforementioned [*Paris Review* interview](https://www.theparisreview.org/interviews/2719/derek-walcott-the-art-of-poetry-no-37-derek-walcott)
 - [Jonathan Galassi remembers Walcott](http://www.fsgworkinprogress.com/2017/03/remembering-derek-walcott/)
 - The [*LARB* review of *The Poetry of Derek Walcott*](https://lareviewofbooks.org/article/eye-mind/)
