@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On <em>Underground Railroad</em>"
+date:   2017-07-17 21:30:00 -0600
+categories:
+---
+The following is a brief review of Colson Whitehead’s 2016 novel, a review I wrote for the inaugural issue of *Ampersand*, a semesterly print newsletter published by [Anselm House](http://anselmhouse.org). Putting the newsletter together—editing this issue, but also providing creative direction for the  design of the newsletter overall—was one of my final projects as communications director at Anselm House. There’s certainly much more to say about the novel than I say here, and perhaps I’ll try to say it later. But perhaps it’s better for me to simply encourage you to read it for yourself, if you haven’t already.
+
+> Colson Whitehead’s remarkable novel [*Underground Railroad*](http://www.nationalbook.org/nba2016winner_f_whitehead-underground-railroad.html) is an honest, and therefore brutal, story about an enslaved and effectively orphaned young woman, Cora, as she attempts to escape her Georgia plantation via a literal underground railroad. Cora’s blindness as she travels the unlit tunnels of the railroad mirrors the blindness she experiences in nearly every facet of her life—whether regarding her escaped mother’s fate, the country she’s traversing, or the human capacity for love in any valence. As the novel explores a psychology and spirituality of trauma, it also emphasizes the human need for good, dignified work, which has the capacity to draw the traumatized back into communion with the world and human community. This novel’s power comes less from its striking premise—which at times threatens to disappear into irrelevance or to distract as a red herring—than from its exploration of these common, basic human needs and emotions as they are fractured by slavery.
