@@ -13,7 +13,7 @@ permalink: /about/
 
 I’m a reader, writer, and editor living in Minnesota. This site is an experiment in [owning my own turf](http://tumblr.austinkleon.com/post/37863874092) and learning Jekyll; it will also, hopefully, prove to be an repository of my own writing on the alleys of culture and history that are most important and intriguing to me: 
 
-I’m not sure what will wind up here—if it’ll ever be anything more than a blank homepage and this about page. But, given the pressures of centralization and control on the web, even this is a small victory. Secession from Facebook has been a goal of mine for years, though work responsibilities have made leaving it completely an impossibility; now, with [Micro.blog](http://micro.blog) launching soon, leaving Twitter and just cross-posting my writing there will be nearly as painless.
+I’m not sure what will wind up here—if it’ll ever be anything more than a blank homepage and this about page. But, given the pressures of centralization and control on the web, even this is a small victory. Secession from Facebook has been a goal of mine for years, though work responsibilities have made leaving it completely an impossibility; now, with [Micro.blog](http://micro.blog) recently launched, leaving active Twitter and just cross-posting my writing there will be nearly as painless.
 
 &nbsp;
 
