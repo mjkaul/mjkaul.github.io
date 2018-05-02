@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  *Laurus*: On Arseny's Awkwardness
+title:  “*Laurus*: On Arseny's Awkwardness”
 date:   2018-05-02 06:15:00 -0600
 categories: essay, Laurus
 ---
