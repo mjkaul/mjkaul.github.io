@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  “*Laurus*: On Arseny's Awkwardness”
-date:   2018-05-02 06:15:00 -0600
+title:  “On Arseny's Awkwardness”
+date:   2018-05-02 06:00:00 -0600
 categories:
 ---
+
 Who’s more awkward than a saint? 
 
 Prophets are antagonistic by vocation—they’re *expected* to be awkward, which makes them less awkward. Saints imply by their *lives* rather than preach in sermons that I could—and therefore should—be doing better. You can write off a sermon, but a holy life puts you to shame. Awkward.
