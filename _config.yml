@@ -3,8 +3,6 @@ logo: "/images/kaul_2023.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Technical Writer 
   <br><br>
-  Portfolio 
-  <br><br>
   <a href="https://www.linkedin.com/in/mjkaul/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
